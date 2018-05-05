@@ -1,0 +1,13 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx00dd65d70f19dcec",
+	"projectname": "wafer%20php%20demo",
+	"libVersion": "1.9.94",
+	"condition": {}
+}
